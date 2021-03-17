@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dialect name="PrestoMCDDialect" 
+         base="PrestoDialect"
+         class="presto_mcd"
+         version="18.1">     
+</dialect>
